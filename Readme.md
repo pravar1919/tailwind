@@ -1,0 +1,3 @@
+- Use play CDN to use tailwind in developement server.
+- Using Post Css install tailwind with npm from https://tailwindcss.com/docs/installation/using-postcss
+- install "npm install vite", server
